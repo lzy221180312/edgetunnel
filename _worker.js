@@ -51,7 +51,9 @@ let addresses = [
 	'chatgpt.com:2087',
 	'icook.hk',
 	'104.17.0.0#IPv4',
-	'[2606:4700::]#IPv6'
+	'[2606:4700::]#IPv6',
+        'icook.tw:2053#优选域名',
+        'cloudflare.cfgo.cc#优选官方线路'
 	*/
 ];
 let addressesapi = [];
